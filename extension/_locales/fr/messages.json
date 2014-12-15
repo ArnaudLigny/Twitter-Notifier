@@ -1,0 +1,20 @@
+{
+    "extName": {
+        "message": "Notificateur Twitter"
+    },
+    "extDescription": {
+        "message": "Affiche le nombre de notifications Twitter non lus."
+    },
+    "browserActionDefaultTitle": {
+        "message": "$count$ notification(s) Twitter",
+        "placeholders": {
+            "count": {
+                "content": "$1",
+                "example": "7"
+            }
+        }
+    },
+    "browserActionErrorTitle": {
+        "message": "Vous devez être connecté à votre compte Twitter"
+    }
+}

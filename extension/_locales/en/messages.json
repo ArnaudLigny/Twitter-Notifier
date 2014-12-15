@@ -1,0 +1,20 @@
+{
+    "extName": {
+        "message": "Twitter Notifier"
+    },
+    "extDescription": {
+        "message": "Displays your Twitter notifications unread count."
+    },
+    "browserActionDefaultTitle": {
+        "message": "$count$ Twitter notification(s)",
+        "placeholders": {
+            "count": {
+                "content": "$1",
+                "example": "7"
+            }
+        }
+    },
+    "browserActionErrorTitle": {
+        "message": "You should be logged into your Twitter account"
+    }
+}
