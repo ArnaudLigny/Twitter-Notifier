@@ -1,5 +1,7 @@
 Twitter Notifier
-=====================
+================
+
+_**Doesn't work!**_
 
 Twitter Notifier is a Google Chrome extension that displays your [Twitter](http://twitter.com) notifications unread count.
 
